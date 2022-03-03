@@ -1,0 +1,27 @@
+
+url: https://nic-nat.github.io
+baseurl: /08c3839df2735f890f0aa073a7a8790b285d25c6
+
+# Site settings
+title: Nic + Nat
+email: petsgetmarried@wedding.com
+description: "Our wedding website."
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+  # - title: twitter
+  #   url: http://twitter.com/jekyllrb
+  # - title: facebook
+  #   url:
+  # - title: stack-overflow
+  #   url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket 
+  #   url: http://bitbucket.org/jekyll
+  # - title: github
+  #   url: http://github.com/jekyll
+
+# Build settings
+markdown: kramdown
+permalink: /08c3839df2735f890f0aa073a7a8790b285d25c6
+
+include: ['_en_pages', '_fr_pages']
