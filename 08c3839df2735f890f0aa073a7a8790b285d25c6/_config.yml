@@ -21,6 +21,6 @@ description: "Our wedding website."
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /08c3839df2735f890f0aa073a7a8790b285d25c6
 
 include: ['_en_pages', '_fr_pages']
